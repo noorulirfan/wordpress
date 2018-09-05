@@ -1,0 +1,45 @@
+/***Latest Blog hover***/
+
+.latest-blog-section {
+    padding: 0px 0 80px 0px;
+}
+.latest-blog-section-main {
+    padding: 0 0 15px;
+}
+.latest-blog {
+    padding-top: 15px;
+}
+.latest-blog .latest-blog-title {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 0;
+    padding: 15px 0 0;
+    height: 38px;
+    overflow: hidden;
+}
+.latest-blog-review , .latest-blog-content{
+    display: inline-block;
+    width: 100%;
+}
+.latest-blog-read-more {
+    background: #ff4e00;
+    border: 2px solid transparent;
+    border-radius: 51px;
+    color: #fff;
+    font-size: 14px;
+    padding: 13px 20px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    width: 170px;
+    text-align: center;
+}
+.latest-blog-read-more:hover {
+    color: #ff4e00;
+    border:2px solid #ff4e00;
+    background: transparent;
+}
+/****latest blog css paart end****/

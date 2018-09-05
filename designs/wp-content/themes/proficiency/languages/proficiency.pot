@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: proficiency\n"
+"POT-Creation-Date: 2017-07-04 08:57+0530\n"
+"PO-Revision-Date: 2017-07-04 08:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\proficiency-lite\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\proficiency-lite\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/404.php:15
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/404.php:30
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/content.php:26
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/footer.php:39
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/functions.php:74
+msgid "Primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/functions.php:75
+msgid "Social Links Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/functions.php:181
+msgid "Slider Section Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/functions.php:185
+msgid "Service Section Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/functions.php:189
+msgid "Contact Section Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/page.php:34
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/search.php:20
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/search.php:22
+msgid "Sorry, Do Not match."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/single.php:50
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/proficiency-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Footer Copyright Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:12
+msgid "This is a Footer section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:24
+msgid "Hide/Show Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:25
+msgid "Hide/Show Footer Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:33
+msgid ""
+"<p>&copy; Copyright 2017 by <a href=\"#\">proficiency</a>. All Rights "
+"Reserved. Powered by <a href=\"https://wordpress.org/\">WordPress</a></p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_copyright.php:36
+msgid "Copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:95
+msgid "Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:99
+msgid "Header Info Details Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:105
+msgid "<a><i class=\"fa fa-clock-o \"></i>Open-Hours:10 am to 7pm</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:110
+msgid "Info One:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:118
+msgid ""
+"<a href=\"mailto:info@themeansar.com\" title=\"Mail Me\"><i class=\"fa fa-"
+"envelope\"></i> info@themeansar.com</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:123
+msgid "Info Two:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:129
+msgid "Header Top Bar Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:140
+msgid "Hide/Show Topbar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:149
+msgid "Search Bar Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:164
+msgid "Hide/Show Search Bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:171
+msgid "Search Here"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:177
+msgid "Search Bar Placeholder Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:184
+msgid "<i class=\"fa fa-search\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_header.php:190
+msgid "Search Bar Button Change Label and Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:14
+msgid ""
+"To activate the slider on the homepage, first create a page, enter the "
+"title, description and the slider image in the page, then go to the widget "
+"section <b>(Customize> Widgets> Proficiency - Slider Widget)</b> Drag "
+"Proficiency - Slider Widget into Slider Secion Widget, then select the "
+"slider for which you have created the page and save it."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:31
+msgid ""
+"To activate the service on the homepage, first create a page, enter the "
+"title, description and the service image in the page, then go to the widget "
+"section <b>(Customize> Widgets> Proficiency - Service Widget)</b> Drag "
+"Proficiency - Service Widget into Service Secion Widget, then select the "
+"Service for which you have created the page and save it."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:150
+msgid "Homepage Section Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:160
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:173
+msgid "Enable Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:197
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:210
+msgid "Enable Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:233
+msgid "Our Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:247
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-services.php:34
+msgid "we offer totally integrated service beyond the web"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:252
+msgid "Service Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:278
+msgid "Callout Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:291
+msgid "Enable Callout section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:305
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:474
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:542
+msgid "Choose Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:319
+msgid "Callout Text Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:328
+msgid "Why Choose Us"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:334
+msgid "Callout Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:342
+msgid ""
+"laoreet ipsum eu laoreet. ugiignissimat Vivamus dignissim feugiat erat sit "
+"amet convallis."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:348
+msgid "Callout Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:362
+msgid "Button One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:370
+msgid "#"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:376
+msgid "Button One URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:390
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:432
+msgid "Open Link New window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:404
+msgid "Button Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:418
+msgid "Button Two URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:448
+msgid "News & Events Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:461
+msgid "Enable Latest News section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:488
+msgid "Latest News Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:502
+msgid "Latest News Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:515
+msgid "Contact Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:527
+msgid "Enable Conatc section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:550
+msgid "Contact Us"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:556
+msgid "Contact Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_homepage.php:569
+msgid "Contact Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:13
+msgid "http://themeansar.com/themes/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:13
+msgid "Explore Our Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:20
+msgid "Themeansar Store"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:81
+msgid "Discover proficiency Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:44
+msgid "https://wordpress.org/support/theme/proficiency"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:44
+msgid "Support Form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:68
+msgid "http://docs.themeansar.com/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/customize/ta_customize_pro.php:68
+msgid "Online Documenation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:98
+msgid "Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:104
+msgid "fa fa-phone"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:110
+msgid "Phone:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:116
+msgid "+ (007) 548 58 5400"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:122
+msgid "Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:128
+msgid "fa fa-envelope"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:135
+msgid "info@themeansar.com"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:143
+msgid "Address:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:149
+msgid "fa fa-map-marker"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:156
+msgid "1240 Park Avenue NYC, USA 256323"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:164
+msgid "fa fa-globe"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:171
+msgid "Website:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:178
+msgid "www.themeansar.com"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:186
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-custom.php:75
+msgid "Custom Class"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:197
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-custom.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:82
+msgid "colum"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:213
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:238
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:263
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:288
+msgid "Fontawesome icon:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:216
+msgid "Marker Label:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:219
+msgid "Marker Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:225
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:250
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:275
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:300
+msgid "Link to get fa-icon "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:225
+msgid "fa_icon_marker"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:241
+msgid "Phone Label:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:244
+msgid "Phone Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:250
+msgid "fa_icon_phone"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:257
+msgid "Phone title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:266
+msgid "Mail Label:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:269
+msgid "Mail Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:275
+msgid "fa_icon_envelope"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:291
+msgid "Globe Label:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:294
+msgid "Globe Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-contact.php:300
+msgid "fa_icon_globe"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-custom.php:8
+msgid "Proficiency - Custom Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-custom.php:71
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-custom.php:79
+msgid "Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:15
+msgid "Proficiency - Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:98
+msgid "Service Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:108
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:100
+msgid "Select Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:132
+msgid "Button Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:135
+msgid "Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-service.php:153
+msgid "Open Button Link in new window?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:17
+msgid "Proficiency - Slider Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:119
+msgid "Button One Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:122
+msgid "Button One Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:135
+msgid "Open Button One Link in new window?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:147
+msgid "Button Two Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:150
+msgid "Button Two Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/inc/ansar/widget/proficiency-slider.php:163
+msgid "Open Button Two Link in new window?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-blog.php:26
+msgid "Latest <span>News</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-blog.php:32
+msgid "Lorem tincidunt augue vel congue pretium"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-callout.php:32
+msgid "we design digital <span>products</span> that make peoples lives easier"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-callout.php:39
+msgid ""
+"I will give you a complete account of the system, and expound the actual "
+"teachings of the great explorer of the truth, the master-builder of human "
+"happiness."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-contact.php:26
+msgid "Get in <span>touch</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-contact.php:34
+msgid "Have Questions"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\proficiency-lite/sections/home-services.php:26
+msgid "Our <span>Services</span>"
+msgstr ""
